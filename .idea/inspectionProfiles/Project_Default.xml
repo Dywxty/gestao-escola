@@ -1,0 +1,58 @@
+<component name="InspectionProjectProfileManager">
+  <profile version="1.0">
+    <option name="myName" value="Project Default" />
+    <inspection_tool class="PyPackageRequirementsInspection" enabled="true" level="WARNING" enabled_by_default="true">
+      <option name="ignoredPackages">
+        <list>
+          <option value="aiohappyeyeballs" />
+          <option value="aiohttp" />
+          <option value="aiosignal" />
+          <option value="attrs" />
+          <option value="cffi" />
+          <option value="charset-normalizer" />
+          <option value="cryptography" />
+          <option value="faiss-cpu" />
+          <option value="filetype" />
+          <option value="Flask" />
+          <option value="frozenlist" />
+          <option value="google-auth" />
+          <option value="google-genai" />
+          <option value="greenlet" />
+          <option value="gunicorn" />
+          <option value="httpx-sse" />
+          <option value="jsonpatch" />
+          <option value="jsonpointer" />
+          <option value="langchain-classic" />
+          <option value="langchain-community" />
+          <option value="langchain-core" />
+          <option value="langchain-google-genai" />
+          <option value="langchain-protocol" />
+          <option value="langchain-text-splitters" />
+          <option value="langsmith" />
+          <option value="multidict" />
+          <option value="numpy" />
+          <option value="orjson" />
+          <option value="packaging" />
+          <option value="propcache" />
+          <option value="protobuf" />
+          <option value="pyasn1" />
+          <option value="pyasn1_modules" />
+          <option value="pycparser" />
+          <option value="pydantic-settings" />
+          <option value="python-dotenv" />
+          <option value="PyYAML" />
+          <option value="requests" />
+          <option value="requests-toolbelt" />
+          <option value="SQLAlchemy" />
+          <option value="tenacity" />
+          <option value="urllib3" />
+          <option value="uuid_utils" />
+          <option value="websockets" />
+          <option value="xxhash" />
+          <option value="yarl" />
+          <option value="zstandard" />
+        </list>
+      </option>
+    </inspection_tool>
+  </profile>
+</component>
